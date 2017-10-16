@@ -44,4 +44,4 @@ WORKDIR /root/torch-hdf5
 RUN luarocks make hdf5-0-0.rockspec
 
 #Done!
-WORKDIR /root/torch-rnn
+WORKDIR /root/torch-rnn-repo
